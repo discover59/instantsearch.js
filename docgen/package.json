@@ -11,7 +11,7 @@
     "algolia-frontend-components": "^0.0.33",
     "autoprefixer": "^6.6.0",
     "babel-cli": "^6.18.0",
-    "babel-loader": "^6.2.10",
+    "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.2.1",
     "babel-preset-latest": "^6.22.0",
     "babel-preset-stage-2": "^6.18.0",
