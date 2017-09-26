@@ -33,7 +33,7 @@
     "ms-webpack": "2.0.0-alpha.1",
     "netlify-cli": "^1.1.0",
     "node-sass": "^4.1.1",
-    "postcss-scss": "^0.4.0",
+    "postcss-scss": "^1.0.0",
     "pug": "^2.0.0-beta6",
     "webpack": "^3.0.0",
     "webpack-dev-middleware": "^1.9.0",
